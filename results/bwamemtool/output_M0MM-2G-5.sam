@@ -1,2 +1,0 @@
-@SQ	SN:20	LN:10001
-@PG	ID:bwa	PN:bwa	VN:0.7.17-r1188	CL:bwa mem -t 8 -k 10 -A -1 -B -2 -O -5 example_human_reference.fasta example_human_Illumina.pe_1.fastq
